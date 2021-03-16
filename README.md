@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo!
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently studying Computer Science Engeneering at Politecnico di Milano.
+- 🌱 I’m currently studying Computer Engeneering at Politecnico di Milano.
 - 📫 This is my e-mail address: lorenzo.veronese2000@gmail.com
 
 <!---
